@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "LastKnight00"
+title                    : "lastknight00"
 title_separator          : "-"
 name                     : "Lee taehan"
 description              : "Teahan's blog"
@@ -106,13 +106,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "lastknight00"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "이제 막 PS에 눈을 떴어요"
+  location         : "부천"
   email            :
   links:
-    - label: "Email"
+    - label: "darkknight8608@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
